@@ -21,7 +21,7 @@ Welcome to CyberTap Solutions — a collection of tools focused on modern, open-
 - **[GestureController](https://github.com/CyberTapSolutions/GestureController)** – Hand gesture-driven toolkit using OpenCV & MediaPipe  
 - **[BluetoothCybersecurityToolkit](https://github.com/CyberTapSolutions/BluetoothCybersecurityToolkit)** – Bluetooth recon, sniffing, and analysis  
 - **[DeepFakeDefenseToolkit](https://github.com/CyberTapSolutions/DeepFakeDefenseToolkit)** – Liveness, artifact, and spoofing detection  
-- **[cybertapsolutions.com](https://github.com/CyberTapSolutions/cybertapsolutions.com)** – Static website representing the CyberTap brand
+- **[cybertapsolutions.com](https://github.com/CyberTapSolutions/cybertapsolutions.com)** – Static website representing the CyberTap Solutions brand
 
 ---
 
