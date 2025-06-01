@@ -1,6 +1,6 @@
 # 🛰️ CyberTap Solutions
 
-Welcome to CyberTap — a collection of tools focused on modern, open-source cybersecurity.
+Welcome to CyberTap Solutions — a collection of tools focused on modern, open-source cybersecurity.
 
 🔒 I build lightweight, purpose-driven projects for red/blue/purple teams.  
 ⚙️ Each tool is designed for education, research, and real-world application.
