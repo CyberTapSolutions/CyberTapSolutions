@@ -1,33 +1,61 @@
 # 🛰️ CyberTap Solutions
 
-Welcome to CyberTap Solutions — a collection of tools focused on modern, open-source cybersecurity.
+Welcome to **CyberTap Solutions** — my cybersecurity R&D brand where I build open-source tools, scripts, and playbooks focused on real-world impact and layered defense.
 
-🔒 I build lightweight, purpose-driven projects for red/blue/purple teams.  
-⚙️ Each tool is designed for education, research, and real-world application.
-
----
-
-## 🚧 Current Focus  
-- Drone & signal-based threat detection  
-- Gesture- and voice-based toolkits  
-- Deepfake defense & biometric spoofing detection  
-- Ethical Bluetooth recon and simulation  
-- AI + cybersecurity fusion projects
+🔐 I specialize in lightweight, purpose-driven solutions for public and private sector missions — from endpoint triage to protocol hardening and AI-assisted threat detection.
 
 ---
 
-## 🔗 Featured Projects  
-- **[DroneShieldTap](https://github.com/CyberTapSolutions/DroneShieldTap)** – Wi-Fi-based drone detection + alert system  
-- **[GestureController](https://github.com/CyberTapSolutions/GestureController)** – Hand gesture-driven toolkit using OpenCV & MediaPipe  
-- **[BluetoothCybersecurityToolkit](https://github.com/CyberTapSolutions/BluetoothCybersecurityToolkit)** – Bluetooth recon, sniffing, and analysis  
-- **[DeepFakeDefenseToolkit](https://github.com/CyberTapSolutions/DeepFakeDefenseToolkit)** – Liveness, artifact, and spoofing detection  
-- **[cybertapsolutions.com](https://github.com/CyberTapSolutions/cybertapsolutions.com)** – Static website representing the CyberTap Solutions brand
+## 🧭 Current Mission Areas
+
+### 🏛️ Public Sector – Defense & Compliance
+- Linux system hardening & vulnerability remediation
+- Endpoint monitoring and SIEM support (SentinelOne, Elastic)
+- Secure network protocols (SSH, FTPS, DNSSEC)
+- Policy enforcement (DMARC, PEIMS/TSDS data security)
+- Windows Server scripting & ODBC integrations
+
+### 🏢 Private Sector – Innovation & Detection
+- Drone & signal-based threat detection
+- AI-assisted deepfake & spoofing detection
+- Gesture- and voice-driven automation tools
+- Ethical Bluetooth recon and traffic simulation
+- Data parsing, conversions, and ETL scripting (JSON, XML, CSV)
 
 ---
 
-## 🧠 Philosophy  
+## 🔗 Featured Projects
+
+- **[vulnerability-remediation-linux](https://github.com/CyberTapSolutions/vulnerability-remediation-linux)**  
+  Hardening a real Ubuntu 22.04 system: OpenSSH upgrade (CVE-2024-6387), FTPS enforcement, and SSH MACs tightening
+
+- **[DroneShieldTap](https://github.com/CyberTapSolutions/DroneShieldTap)**  
+  Wi-Fi-based drone detection + alert system for airspace situational awareness
+
+- **[GestureController](https://github.com/CyberTapSolutions/GestureController)**  
+  Hand gesture-driven toolkit using OpenCV & MediaPipe for cybersecurity automation
+
+- **[BluetoothCybersecurityToolkit](https://github.com/CyberTapSolutions/BluetoothCybersecurityToolkit)**  
+  Ethical recon, sniffing, spoofing defense, and Bluetooth traffic analysis
+
+- **[DeepFakeDefenseToolkit](https://github.com/CyberTapSolutions/DeepFakeDefenseToolkit)**  
+  Liveness detection, artifact analysis, and biometric spoofing mitigation
+
+- **[cybertapsolutions.com](https://github.com/CyberTapSolutions/cybertapsolutions.com)**  
+  My personal site for showcasing cyber tools, services, and mission goals
+
+---
+
+## 🧠 Philosophy
+
 Stay useful. Stay lean. Stay secure.  
-These tools are made for labs, learning, and layered defense — **not destruction**.
+These tools are built to educate, simulate, and defend — not destroy.
+
+---
+
+📫 Want to collaborate, hire, or network?  
+Let’s connect: **github.com/CyberTapSolutions**
+
 
 > “Code is a weapon. But it’s how you use it that defines your mission.”
 
